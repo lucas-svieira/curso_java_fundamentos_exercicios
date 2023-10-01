@@ -20,6 +20,7 @@ public class Regrade3 {
         //processamento
         valor = (x * y) / 100;
         System.out.println(x + "% de " + y + " = " +  formatador.format(valor));
+        teclado.close();
 
 
 
