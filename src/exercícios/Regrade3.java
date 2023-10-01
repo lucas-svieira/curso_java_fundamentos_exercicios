@@ -9,7 +9,7 @@ public class Regrade3 {
         double x, y, valor;
         //objetos
         Scanner teclado = new Scanner(System.in);
-        DecimalFormat formatador = new DecimalFormat("#0.0");
+        DecimalFormat formatador = new DecimalFormat("#0.00");
         //Entrada
         System.out.println("Regra de 3");
         System.out.println("x% de y = valor");
