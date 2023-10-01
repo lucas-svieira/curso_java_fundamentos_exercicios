@@ -3,7 +3,7 @@ package exercicios;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class CalculadoraValorServiços {
+public class CalculadoraValorServicos {
     public static void main(String[] args){
         //Variáveis
         double hora, remuneracao, custo, cargaHoraria;
